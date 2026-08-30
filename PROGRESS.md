@@ -37,4 +37,4 @@ Marketing site for Quelron Group and its six subsidiaries (Tech, Inc, Autos, Far
 ## 🔗 Links
 - GitHub: _not yet connected_
 - Deployed: https://quelron-website.vercel.app
-- Notion: _to be added after sync_
+- Notion: https://app.notion.com/p/3cc2f05193ac8154a09dc16ad4ef5200
