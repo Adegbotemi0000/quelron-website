@@ -30,11 +30,11 @@ Marketing site for Quelron Group and its six subsidiaries (Tech, Inc, Autos, Far
 - Add analytics (Vercel Analytics or GA)
 
 ## 🐛 Known Issues
-- No git remote configured — deploy to Vercel was done via `vercel` CLI direct upload, not git-connected, so there's no auto-deploy-on-push yet
+- GitHub repo now connected, but Vercel deploy was done via `vercel` CLI direct upload, not git-linked — connect the Vercel project to this repo in the Vercel dashboard for auto-deploy-on-push
 - Contact/booking forms don't actually send anywhere (simulated success state only)
 - `Primary Master.png` and an unused dark wordmark variant remain in `public/logos/` as source assets but are excluded from the deploy bundle
 
 ## 🔗 Links
-- GitHub: _not yet connected_
+- GitHub: https://github.com/Adegbotemi0000/quelron-website
 - Deployed: https://quelron-website.vercel.app
 - Notion: https://app.notion.com/p/3cc2f05193ac8154a09dc16ad4ef5200
